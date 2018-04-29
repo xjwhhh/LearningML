@@ -1,7 +1,7 @@
 import pandas as pd
 import csv
 
-dframe = pd.DataFrame.from_csv("C:\\Users\\xjwhh\\Desktop\\aa.csv")
+dframe = pd.DataFrame.from_csv("C:\\Users\\xjwhh\\Desktop\\aa1.csv")
 # print(dframe)
 
 array1=pd.Series(dframe.index)
